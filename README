@@ -1,15 +1,13 @@
 ******************************************************************
-************************** GREAT FREEDOM  ************************
+************************** COMRADE************************
 ******************************************************************
+Welcome Comrade! Come join the revolution!
 
-CM-11.0 NEW THEME ENGINE THEME!
+Comrade is a CM 11 theme forked from Esa Laukkanen's (elelinux) "Great Freedom" theme.
 
-This is my contribution to celebrate the new theme engine.
-
-I have chosen to have this theme as an open source project, the 
-source code can be used as a template, source code is available here
-
+elelinux's "Great Freedom" theme:
 https://github.com/elelinux/GreatFreedom
+
 
 To build this theme use eclipse or android-studio
 
@@ -33,19 +31,3 @@ What's Themed/Included
 * GreatFreedom wallpaper
 * GreatFreedom iconpack
 * GreatFreedom fonts
-
-Link to Play Store
-
-https://play.google.com/store/apps/details?id=org.cyanogenmod.great.freedom
-
-Made by Esa Laukkanen <ele.linux@gmail.com>
-
-##TODO LIST
-
-* Add more icons
-* Feel free to request for specific icons
-
-*MISC
-
-Widget Border Blue Color
-#55acee
