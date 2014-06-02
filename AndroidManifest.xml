@@ -16,18 +16,16 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.cyanogenmod.great.freedom"
-    android:versionCode="4"
-    android:versionName="1.3" >
-
-    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    package="ru.comrade"
+    android:versionCode="1"
+    android:versionName="comrade" >
 
     <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="19" />
 
-    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Great Freedom">
+    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Comrade Theme">
     </application>
 
-    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Great Freedom"/>
-    <meta-data android:name="org.cyanogenmod.theme.author" android:value="CyanogenMod" />
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Comrade"/>
+    <meta-data android:name="org.cyanogenmod.theme.author" android:value="everyone" />
 
 </manifest>
